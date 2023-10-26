@@ -1,6 +1,6 @@
 # Buon Appetito
 
-This is my solution for the challenge Buon APPetito: https://bit.ly/3DdS5HY, which is part of the challenge series Retos de Programación Mensuales 2023: https://retosdeprogramacion.com/mensuales2022 by MoureDev: https://www.twitch.tv/mouredev.
+This is my solution for the challenge Buon APPetito: https://bit.ly/3DdS5HY, which is part of the challenge series de Rviewer.
 
 **User notes**
 
