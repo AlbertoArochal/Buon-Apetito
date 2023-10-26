@@ -22,7 +22,3 @@ I tested with **Jest**: https://jestjs.io/ and **React Testing Library**: https:
 - Finish testing.
 - Go for the extra points.
 
-**Removed references to the QR code**
-
-* In the first paragraph, the phrase "for the best experience I strongly recommend you to scan this QR with your mobile and even install it to use as any other app" has been removed.
-* The QR code image has been removed.
